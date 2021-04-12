@@ -17,7 +17,4 @@ namespace Json
         i >> j;
         return j;
     }
-
-
-
 }
