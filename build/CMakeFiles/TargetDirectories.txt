@@ -1,0 +1,5 @@
+/home/vasek/project_test/resourceFileFromJson/build/CMakeFiles/rebuild_cache.dir
+/home/vasek/project_test/resourceFileFromJson/build/CMakeFiles/edit_cache.dir
+/home/vasek/project_test/resourceFileFromJson/build/apps/CMakeFiles/rebuild_cache.dir
+/home/vasek/project_test/resourceFileFromJson/build/apps/CMakeFiles/edit_cache.dir
+/home/vasek/project_test/resourceFileFromJson/build/apps/CMakeFiles/main.dir
